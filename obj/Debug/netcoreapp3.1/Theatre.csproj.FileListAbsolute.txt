@@ -1,0 +1,13 @@
+C:\Users\alexp\Desktop\ООП\CURS\Theatre\bin\Debug\netcoreapp3.1\Theatre.exe
+C:\Users\alexp\Desktop\ООП\CURS\Theatre\bin\Debug\netcoreapp3.1\Theatre.deps.json
+C:\Users\alexp\Desktop\ООП\CURS\Theatre\bin\Debug\netcoreapp3.1\Theatre.runtimeconfig.json
+C:\Users\alexp\Desktop\ООП\CURS\Theatre\bin\Debug\netcoreapp3.1\Theatre.runtimeconfig.dev.json
+C:\Users\alexp\Desktop\ООП\CURS\Theatre\bin\Debug\netcoreapp3.1\Theatre.dll
+C:\Users\alexp\Desktop\ООП\CURS\Theatre\bin\Debug\netcoreapp3.1\Theatre.pdb
+C:\Users\alexp\Desktop\ООП\CURS\Theatre\obj\Debug\netcoreapp3.1\Theatre.csprojAssemblyReference.cache
+C:\Users\alexp\Desktop\ООП\CURS\Theatre\obj\Debug\netcoreapp3.1\Theatre.AssemblyInfoInputs.cache
+C:\Users\alexp\Desktop\ООП\CURS\Theatre\obj\Debug\netcoreapp3.1\Theatre.AssemblyInfo.cs
+C:\Users\alexp\Desktop\ООП\CURS\Theatre\obj\Debug\netcoreapp3.1\Theatre.csproj.CoreCompileInputs.cache
+C:\Users\alexp\Desktop\ООП\CURS\Theatre\obj\Debug\netcoreapp3.1\Theatre.dll
+C:\Users\alexp\Desktop\ООП\CURS\Theatre\obj\Debug\netcoreapp3.1\Theatre.pdb
+C:\Users\alexp\Desktop\ООП\CURS\Theatre\obj\Debug\netcoreapp3.1\Theatre.genruntimeconfig.cache
